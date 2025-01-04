@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7lele&show_icons=true&locale=en" alt="7lele" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7lele&" alt="7lele" /></p>
+[![Profil GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/7lele)
