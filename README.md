@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7lele" alt="7lele" /></a> </p>
 
-- 📖 I’m currently working on [My card game]([https://X](https://github.com/7lele/CardGame))
+- 📖 I’m currently working on [My card game]([(https://github.com/7lele/CardGame)])
 
 - 🌱 I’m currently learning **Java**
 
